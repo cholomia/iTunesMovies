@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">iTunes Movies</string>
+    <string name="title_track_list">iTunes Movies</string>
+    <string name="title_track_detail">Movie Details</string>
+    <string name="msg_unknown_error">An Error Occurred.</string>
+    <string name="msg_empty_list">No Results.</string>
+    <string name="retry">Retry</string>
+    <string name="txt_previous_visit">Previously visited on: %s</string>
+    <string name="msg_first_visit">No previous visit yet</string>
+    <string name="release_date">Release Date</string>
+    <string name="genre">Genre</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="running_time">Running Time</string>
+</resources>
